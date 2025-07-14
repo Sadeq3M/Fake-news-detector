@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+requests
+spacy
+nltk
+transformers
+mlflow
+python-dotenv
+streamlit
