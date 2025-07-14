@@ -2,42 +2,32 @@ name: Docker Compose CI Test
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
   pull_request:
-    branches: [ main ]
+    branches: [main]
 
 jobs:
   docker-compose-test:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 📥 Checkout repository
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: 🧱 Set up Docker Buildx
-        uses: docker/setup-buildx-action@v2
-
-      - name: 🐳 Build and run Docker Compose
-        run: docker-compose up -d --build
-
-      - name: ⏱ Wait for backend to be healthy
-        run: |
-          echo "Waiting for backend to become healthy..."
-          sleep 20
-          docker ps
-          docker inspect --format='{{json .State.Health}}' fake-news-detector-backend || true
-
-      - name: 🔎 Test backend healthcheck
-        run: curl -f http://localhost:8000/docs
-
-      - name: 🔎 Test frontend healthcheck
-        run: curl -f http://localhost:5000 || echo "⚠️ Streamlit may not respond in headless CI"
-
-      - name: 🧹 Teardown
-        if: always()
-        run: docker-compose down
       - name: Install Docker Compose
         run: |
           sudo curl -L "https://github.com/docker/compose/releases/download/v2.23.0/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
           sudo chmod +x /usr/local/bin/docker-compose
           docker-compose --version
+
+      - name: Build and Run Docker Compose
+        run: docker-compose up -d --build
+
+      - name: Wait for FastAPI to be ready
+        run: |
+          sleep 10
+          curl -f http://localhost:8000/docs || exit 1
+
+      - name: Shutdown Docker Compose
+        if: always()
+        run: docker-compose down
