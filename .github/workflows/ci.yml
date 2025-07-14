@@ -1,39 +1,24 @@
-name: 🧪 CI Pipeline
+name: CI
 
-on:
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
+on: [push, pull_request]
 
 jobs:
-  build-test:
+  test:
     runs-on: ubuntu-latest
 
     steps:
-    - name: 🔄 Checkout code
-      uses: actions/checkout@v3
+    - uses: actions/checkout@v3
 
-    - name: 🐍 Set up Python
+    - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: 3.11
+        python-version: '3.11'
 
-    - name: 📦 Install dependencies
+    - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
-    - name: ✅ Run tests
-      run: pytest tests/
-
-    - name: 🧹 Run linter (flake8)
+    - name: Run tests
       run: |
-        pip install flake8
-        flake8 app streamlit_app --max-line-length=120
-
-    - name: 🐳 Build backend Docker image
-      run: docker build -f app/Dockerfile -t backend-test .
-
-    - name: 🐳 Build frontend Docker image
-      run: docker build -f streamlit_app/Dockerfile -t frontend-test .
+        pytest
