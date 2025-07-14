@@ -9,26 +9,22 @@ on:
 jobs:
   test-backend:
     runs-on: ubuntu-latest
-    services:
-      docker:
-        image: docker:20.10.7
-        options: --privileged
 
     steps:
-    - name: Checkout code
+    - name: 🧾 Checkout code
       uses: actions/checkout@v3
 
-    - name: Set up Python
+    - name: 🐍 Set up Python
       uses: actions/setup-python@v4
       with:
         python-version: '3.11'
 
-    - name: Install dependencies
+    - name: 📦 Install dependencies
       run: |
         pip install -r backend/requirements.txt
         pip install pytest
 
-    - name: Run tests
+    - name: ✅ Run backend tests
       run: pytest backend/tests
 
   docker-build:
@@ -36,20 +32,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
+    - name: 🧾 Checkout code
       uses: actions/checkout@v3
 
-    - name: Set up Docker Buildx
+    - name: 🐳 Set up Docker Buildx
       uses: docker/setup-buildx-action@v3
 
-    - name: Login to DockerHub (optional)
-      uses: docker/login-action@v3
-      with:
-        username: ${{ secrets.DOCKER_USERNAME }}
-        password: ${{ secrets.DOCKER_PASSWORD }}
+    - name: 🔨 Build backend Docker image
+      run: docker build -t fake-news-backend ./backend
 
-    - name: Build backend image
-      run: docker build -t backend-test ./backend
-
-    - name: Build frontend image
-      run: docker build -t frontend-test ./frontend
+    - name: 🔨 Build frontend Docker image
+      run: docker build -t fake-news-frontend ./frontend
