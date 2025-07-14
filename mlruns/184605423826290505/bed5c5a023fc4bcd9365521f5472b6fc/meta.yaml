@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/fake-news-detector/mlruns/184605423826290505/bed5c5a023fc4bcd9365521f5472b6fc/artifacts
+end_time: 1752444401346
+entry_point_name: ''
+experiment_id: '184605423826290505'
+lifecycle_stage: active
+run_id: bed5c5a023fc4bcd9365521f5472b6fc
+run_name: clean-smelt-336
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752444401282
+status: 3
+tags: []
+user_id: NoteBook

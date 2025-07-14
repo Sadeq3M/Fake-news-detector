@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/fake-news-detector/mlruns/184605423826290505/c6b83a1496c24a72963aa0798593a139/artifacts
+end_time: 1752444382489
+entry_point_name: ''
+experiment_id: '184605423826290505'
+lifecycle_stage: active
+run_id: c6b83a1496c24a72963aa0798593a139
+run_name: agreeable-cow-66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752444382429
+status: 3
+tags: []
+user_id: NoteBook

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/fake-news-detector/mlruns/184605423826290505/4d128aafc942485391dcecc7b944e3da/artifacts
+end_time: 1752448140397
+entry_point_name: ''
+experiment_id: '184605423826290505'
+lifecycle_stage: active
+run_id: 4d128aafc942485391dcecc7b944e3da
+run_name: carefree-colt-215
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752448140345
+status: 3
+tags: []
+user_id: NoteBook

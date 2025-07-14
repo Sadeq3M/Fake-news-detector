@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/fake-news-detector/mlruns/184605423826290505/126342d56dc241f8b8b6e12ded7dcd7f/artifacts
+end_time: 1752445019530
+entry_point_name: ''
+experiment_id: '184605423826290505'
+lifecycle_stage: active
+run_id: 126342d56dc241f8b8b6e12ded7dcd7f
+run_name: dashing-crab-893
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752445019478
+status: 3
+tags: []
+user_id: NoteBook

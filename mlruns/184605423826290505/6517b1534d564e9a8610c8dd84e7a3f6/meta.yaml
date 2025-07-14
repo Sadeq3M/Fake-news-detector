@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/fake-news-detector/mlruns/184605423826290505/6517b1534d564e9a8610c8dd84e7a3f6/artifacts
+end_time: 1752444382585
+entry_point_name: ''
+experiment_id: '184605423826290505'
+lifecycle_stage: active
+run_id: 6517b1534d564e9a8610c8dd84e7a3f6
+run_name: gaudy-gull-27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752444382524
+status: 3
+tags: []
+user_id: NoteBook

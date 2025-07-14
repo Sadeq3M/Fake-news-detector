@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/fake-news-detector/mlruns/184605423826290505/e2635703b36f40b09006fa1d93313306/artifacts
+end_time: 1752445019278
+entry_point_name: ''
+experiment_id: '184605423826290505'
+lifecycle_stage: active
+run_id: e2635703b36f40b09006fa1d93313306
+run_name: gaudy-rat-134
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752445019233
+status: 3
+tags: []
+user_id: NoteBook

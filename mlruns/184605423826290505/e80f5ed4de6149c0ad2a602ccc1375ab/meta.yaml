@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/fake-news-detector/mlruns/184605423826290505/e80f5ed4de6149c0ad2a602ccc1375ab/artifacts
+end_time: 1752447619376
+entry_point_name: ''
+experiment_id: '184605423826290505'
+lifecycle_stage: active
+run_id: e80f5ed4de6149c0ad2a602ccc1375ab
+run_name: hilarious-kit-950
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752447619326
+status: 3
+tags: []
+user_id: NoteBook

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/fake-news-detector/mlruns/184605423826290505/146bcc0f46b945b1aef1a3dff64906aa/artifacts
+end_time: 1752447619295
+entry_point_name: ''
+experiment_id: '184605423826290505'
+lifecycle_stage: active
+run_id: 146bcc0f46b945b1aef1a3dff64906aa
+run_name: sassy-dove-94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752447619227
+status: 3
+tags: []
+user_id: NoteBook

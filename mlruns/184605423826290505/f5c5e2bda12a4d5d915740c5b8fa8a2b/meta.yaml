@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/fake-news-detector/mlruns/184605423826290505/f5c5e2bda12a4d5d915740c5b8fa8a2b/artifacts
+end_time: 1752448140135
+entry_point_name: ''
+experiment_id: '184605423826290505'
+lifecycle_stage: active
+run_id: f5c5e2bda12a4d5d915740c5b8fa8a2b
+run_name: bustling-kit-550
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752448140086
+status: 3
+tags: []
+user_id: NoteBook

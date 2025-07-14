@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/fake-news-detector/mlruns/184605423826290505/4539f26ef2df435f8a1585504821e543/artifacts
+end_time: 1752447619006
+entry_point_name: ''
+experiment_id: '184605423826290505'
+lifecycle_stage: active
+run_id: 4539f26ef2df435f8a1585504821e543
+run_name: tasteful-whale-498
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752447618951
+status: 3
+tags: []
+user_id: NoteBook

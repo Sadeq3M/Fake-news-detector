@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/fake-news-detector/mlruns/184605423826290505/6738dce5c45d4249a69548ce8d915bbd/artifacts
+end_time: 1752448140479
+entry_point_name: ''
+experiment_id: '184605423826290505'
+lifecycle_stage: active
+run_id: 6738dce5c45d4249a69548ce8d915bbd
+run_name: whimsical-mare-15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752448140430
+status: 3
+tags: []
+user_id: NoteBook

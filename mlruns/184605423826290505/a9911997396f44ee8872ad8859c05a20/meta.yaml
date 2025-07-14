@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/fake-news-detector/mlruns/184605423826290505/a9911997396f44ee8872ad8859c05a20/artifacts
+end_time: 1752444401139
+entry_point_name: ''
+experiment_id: '184605423826290505'
+lifecycle_stage: active
+run_id: a9911997396f44ee8872ad8859c05a20
+run_name: resilient-kite-430
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752444401078
+status: 3
+tags: []
+user_id: NoteBook

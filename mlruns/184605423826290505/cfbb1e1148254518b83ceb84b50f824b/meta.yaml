@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/fake-news-detector/mlruns/184605423826290505/cfbb1e1148254518b83ceb84b50f824b/artifacts
+end_time: 1752440704753
+entry_point_name: ''
+experiment_id: '184605423826290505'
+lifecycle_stage: active
+run_id: cfbb1e1148254518b83ceb84b50f824b
+run_name: mysterious-quail-587
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752440704695
+status: 3
+tags: []
+user_id: NoteBook

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/fake-news-detector/mlruns/184605423826290505/0b2dec20ffbe4b759750ed304089743c/artifacts
+end_time: 1752447619098
+entry_point_name: ''
+experiment_id: '184605423826290505'
+lifecycle_stage: active
+run_id: 0b2dec20ffbe4b759750ed304089743c
+run_name: caring-gnat-427
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752447619040
+status: 3
+tags: []
+user_id: NoteBook

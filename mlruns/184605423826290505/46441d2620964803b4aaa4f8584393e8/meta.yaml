@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/fake-news-detector/mlruns/184605423826290505/46441d2620964803b4aaa4f8584393e8/artifacts
+end_time: 1752444382390
+entry_point_name: ''
+experiment_id: '184605423826290505'
+lifecycle_stage: active
+run_id: 46441d2620964803b4aaa4f8584393e8
+run_name: bemused-fox-692
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752444382328
+status: 3
+tags: []
+user_id: NoteBook

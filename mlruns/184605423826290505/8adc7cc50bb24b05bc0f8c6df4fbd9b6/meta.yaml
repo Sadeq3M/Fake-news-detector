@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/fake-news-detector/mlruns/184605423826290505/8adc7cc50bb24b05bc0f8c6df4fbd9b6/artifacts
+end_time: 1752447618915
+entry_point_name: ''
+experiment_id: '184605423826290505'
+lifecycle_stage: active
+run_id: 8adc7cc50bb24b05bc0f8c6df4fbd9b6
+run_name: marvelous-fowl-930
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752447618859
+status: 3
+tags: []
+user_id: NoteBook

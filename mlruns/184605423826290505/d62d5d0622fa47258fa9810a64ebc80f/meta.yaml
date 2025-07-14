@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/fake-news-detector/mlruns/184605423826290505/d62d5d0622fa47258fa9810a64ebc80f/artifacts
+end_time: 1752432269066
+entry_point_name: ''
+experiment_id: '184605423826290505'
+lifecycle_stage: active
+run_id: d62d5d0622fa47258fa9810a64ebc80f
+run_name: nosy-kite-368
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752432269003
+status: 3
+tags: []
+user_id: NoteBook

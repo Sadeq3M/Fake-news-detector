@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/fake-news-detector/mlruns/184605423826290505/297fe00e5f7c4a40832d968db62dc69e/artifacts
+end_time: 1752448140313
+entry_point_name: ''
+experiment_id: '184605423826290505'
+lifecycle_stage: active
+run_id: 297fe00e5f7c4a40832d968db62dc69e
+run_name: gregarious-elk-893
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752448140257
+status: 3
+tags: []
+user_id: NoteBook

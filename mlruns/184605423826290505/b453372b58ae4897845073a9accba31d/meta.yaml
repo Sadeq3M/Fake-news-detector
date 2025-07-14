@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/fake-news-detector/mlruns/184605423826290505/b453372b58ae4897845073a9accba31d/artifacts
+end_time: 1752445019970
+entry_point_name: ''
+experiment_id: '184605423826290505'
+lifecycle_stage: active
+run_id: b453372b58ae4897845073a9accba31d
+run_name: judicious-cat-58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752445019913
+status: 3
+tags: []
+user_id: NoteBook

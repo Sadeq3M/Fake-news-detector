@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/fake-news-detector/mlruns/184605423826290505/2460acd29cf54350983cd046e0b34afe/artifacts
+end_time: 1752448140227
+entry_point_name: ''
+experiment_id: '184605423826290505'
+lifecycle_stage: active
+run_id: 2460acd29cf54350983cd046e0b34afe
+run_name: rumbling-lynx-772
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752448140177
+status: 3
+tags: []
+user_id: NoteBook

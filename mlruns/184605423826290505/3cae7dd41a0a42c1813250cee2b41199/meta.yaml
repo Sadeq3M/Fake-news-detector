@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/fake-news-detector/mlruns/184605423826290505/3cae7dd41a0a42c1813250cee2b41199/artifacts
+end_time: 1752448139935
+entry_point_name: ''
+experiment_id: '184605423826290505'
+lifecycle_stage: active
+run_id: 3cae7dd41a0a42c1813250cee2b41199
+run_name: rumbling-elk-956
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752448139879
+status: 3
+tags: []
+user_id: NoteBook

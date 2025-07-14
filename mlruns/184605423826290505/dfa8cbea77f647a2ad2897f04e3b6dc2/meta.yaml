@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/fake-news-detector/mlruns/184605423826290505/dfa8cbea77f647a2ad2897f04e3b6dc2/artifacts
+end_time: 1752432216584
+entry_point_name: ''
+experiment_id: '184605423826290505'
+lifecycle_stage: active
+run_id: dfa8cbea77f647a2ad2897f04e3b6dc2
+run_name: big-lynx-34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752432216508
+status: 3
+tags: []
+user_id: NoteBook

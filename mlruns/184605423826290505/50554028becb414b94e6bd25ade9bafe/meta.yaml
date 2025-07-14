@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/fake-news-detector/mlruns/184605423826290505/50554028becb414b94e6bd25ade9bafe/artifacts
+end_time: 1752447618739
+entry_point_name: ''
+experiment_id: '184605423826290505'
+lifecycle_stage: active
+run_id: 50554028becb414b94e6bd25ade9bafe
+run_name: silent-shrimp-913
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752447618680
+status: 3
+tags: []
+user_id: NoteBook

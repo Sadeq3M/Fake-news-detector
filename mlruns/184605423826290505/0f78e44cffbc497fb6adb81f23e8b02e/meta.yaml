@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/fake-news-detector/mlruns/184605423826290505/0f78e44cffbc497fb6adb81f23e8b02e/artifacts
+end_time: 1752445019699
+entry_point_name: ''
+experiment_id: '184605423826290505'
+lifecycle_stage: active
+run_id: 0f78e44cffbc497fb6adb81f23e8b02e
+run_name: mercurial-swan-582
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752445019642
+status: 3
+tags: []
+user_id: NoteBook

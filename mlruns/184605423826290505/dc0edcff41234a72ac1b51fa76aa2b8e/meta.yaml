@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/fake-news-detector/mlruns/184605423826290505/dc0edcff41234a72ac1b51fa76aa2b8e/artifacts
+end_time: 1752445020066
+entry_point_name: ''
+experiment_id: '184605423826290505'
+lifecycle_stage: active
+run_id: dc0edcff41234a72ac1b51fa76aa2b8e
+run_name: rumbling-vole-132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752445020001
+status: 3
+tags: []
+user_id: NoteBook

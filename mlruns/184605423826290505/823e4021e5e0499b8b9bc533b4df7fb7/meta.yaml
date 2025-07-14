@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/fake-news-detector/mlruns/184605423826290505/823e4021e5e0499b8b9bc533b4df7fb7/artifacts
+end_time: 1752445019788
+entry_point_name: ''
+experiment_id: '184605423826290505'
+lifecycle_stage: active
+run_id: 823e4021e5e0499b8b9bc533b4df7fb7
+run_name: wise-slug-870
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752445019729
+status: 3
+tags: []
+user_id: NoteBook

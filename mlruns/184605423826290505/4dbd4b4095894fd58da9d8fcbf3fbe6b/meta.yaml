@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/fake-news-detector/mlruns/184605423826290505/4dbd4b4095894fd58da9d8fcbf3fbe6b/artifacts
+end_time: 1752440676419
+entry_point_name: ''
+experiment_id: '184605423826290505'
+lifecycle_stage: active
+run_id: 4dbd4b4095894fd58da9d8fcbf3fbe6b
+run_name: skillful-hawk-135
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752440676361
+status: 3
+tags: []
+user_id: NoteBook

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/fake-news-detector/mlruns/184605423826290505/414518e1cdce4a6cbe2bdcea9dce5c02/artifacts
+end_time: 1752445019447
+entry_point_name: ''
+experiment_id: '184605423826290505'
+lifecycle_stage: active
+run_id: 414518e1cdce4a6cbe2bdcea9dce5c02
+run_name: tasteful-lark-201
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752445019394
+status: 3
+tags: []
+user_id: NoteBook

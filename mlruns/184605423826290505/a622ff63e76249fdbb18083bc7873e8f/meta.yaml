@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/fake-news-detector/mlruns/184605423826290505/a622ff63e76249fdbb18083bc7873e8f/artifacts
+end_time: 1752447618822
+entry_point_name: ''
+experiment_id: '184605423826290505'
+lifecycle_stage: active
+run_id: a622ff63e76249fdbb18083bc7873e8f
+run_name: casual-ant-699
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752447618771
+status: 3
+tags: []
+user_id: NoteBook
